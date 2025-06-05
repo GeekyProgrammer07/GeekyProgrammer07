@@ -6,10 +6,6 @@
 
 <p align="center">🤝 I’m Suman Samanta — Full Stack + Web3 dev. I build dApps, smart contracts, and mildly regretful backend decisions. It's fine. It compiles.</p>
 
-<div align="center">
-    <img src="./img/gradient.png" width="75%" alt="Gradient image"/>
-</div>
-
 ### <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
@@ -59,9 +55,6 @@
 ### <h2 align="center">🔥 My Stats</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyProgrammer07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyProgrammer07&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
-<div align="center">
-    <img src="./img/gradient.png" width="75%" alt="Gradient image"/>
-</div>
