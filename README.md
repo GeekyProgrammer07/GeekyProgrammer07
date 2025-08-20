@@ -2,7 +2,7 @@
     <img src="./img/Image.jpg" width="30%">
 </div>
 
-### <h1 align="center">👨‍💻 About Me</h1>
+### <h1 align="center">About Me</h1>
 
 <p align="center">🤝 I’m Suman Samanta — Full Stack + Web3 dev. I build dApps, smart contracts, and mildly regretful backend decisions. It's fine. It compiles.</p>
 
