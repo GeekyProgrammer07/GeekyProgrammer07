@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/cute-dog-typing.gif" width="30%">
+    <img src="./img/Image.jpg" width="30%">
 </div>
 
 ### <h1 align="center">👨‍💻 About Me</h1>
