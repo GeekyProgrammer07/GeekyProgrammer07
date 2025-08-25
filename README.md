@@ -2,11 +2,11 @@
     <img src="./img/Image.jpg" width="30%">
 </div>
 
-### <h1 align="center">About Me</h1>
+### <h3 align="center">21, engineer. I like to build.</h3>
 
-<p align="center">🤝 I’m Suman Samanta — Full Stack + Web3 dev. I build dApps, smart contracts, and mildly regretful backend decisions. It's fine. It compiles.</p>
+<!-- <p align="center">🤝 I’m Suman Samanta — Full Stack + Web3 dev. I build dApps, smart contracts, and mildly regretful backend decisions. It's fine. It compiles.</p> -->
 
-### <h2 align="center">🌐 Socials</h2>
+<!-- ### <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
     <a href="https://twitter.com/SumanBytes" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white" height="25" alt="Twitter logo"/></a>
@@ -56,5 +56,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyProgrammer07&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
-</div>
+</div> -->
 
