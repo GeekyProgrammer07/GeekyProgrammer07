@@ -4,6 +4,12 @@
 
 ### <h3 align="center">21, engineer. I like to build.</h3>
 
+---
+
+```bash 
+sudo rm -rf /* # run if you dare
+```
+
 <!-- <p align="center">🤝 I’m Suman Samanta — Full Stack + Web3 dev. I build dApps, smart contracts, and mildly regretful backend decisions. It's fine. It compiles.</p> -->
 
 <!-- ### <h2 align="center">🌐 Socials</h2>
